@@ -1,0 +1,659 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+body{
+    background: #E5E5E5;
+    overflow-x: hidden;
+}
+
+/* Navbar */
+.nav-background{
+    background: #FFFFFF;
+    box-shadow: 1px 0px 4px 0px #0000001A;
+    border: 1px solid #ffff;
+    height: 79px;
+    width: 100%;
+}
+
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-log{
+    display: flex;
+    padding-top: 20px;
+    
+}
+
+
+
+.ul{
+    display: flex;
+    padding-top: 33px;
+    margin-right: 200px;
+}
+
+.ul li {
+    list-style: none;
+}
+
+
+
+.ul li a{
+    text-decoration: none;
+}
+
+
+.ul li a:hover{
+    color: blue;
+
+}
+
+
+
+.syn{
+    padding-left: 70px;
+    font-size: 15px;
+}
+
+.home a{
+ color: blue;
+ font-size: 15px;
+}
+
+.pro{
+    padding-left: 70px;
+    font-size: 15px;
+}
+
+.covid{
+    color: blue;
+    padding-left: 10px;
+    font-size: 24px;
+    padding-top: 8px;
+}
+
+.btn {
+    padding: 20px  20px;
+    background: #C4C4C41F;
+     width: 197px;
+     font-size: 13px;
+     height: 55px;
+     margin-top: 10px;
+     border-radius: 5px;
+
+
+}
+
+.btn h3{
+  border: none;
+  color: #5F6368;
+
+}
+
+.btn h3:hover{
+    color: blue;
+}
+
+/* showcase */
+
+.track{
+    margin-top: 65px;
+    
+}
+
+.case{
+  background: #FFFFFF;
+  width: 100%;
+  height: 200px;
+  margin-top: 20px;
+}
+
+
+.total{
+display: flex;
+
+}
+
+.active{
+  
+   
+}
+
+.card{
+margin: 30px  ;
+background: #E5E5E5;
+width: 260px;
+height: 140px;
+
+}
+
+.card-one{
+   margin: 30px  30px;
+   background: #F399110D;
+   width: 260px;
+   height: 140px;
+}
+
+.card-two{
+    
+    margin: 30px  30px;
+    background: #16B4420D;
+    width: 260px;
+    height: 140px;
+}
+
+
+
+
+.card-three{
+    margin: 30px  30px;
+    background: #AA2A2A0D;
+    width: 260px;
+    height: 140px;
+    padding-top: 3px;
+}
+
+.tot{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.pom{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+    color: #2B6FF3;
+    font-family: Rubik;
+}
+
+.pon{
+   text-align: center;
+   margin-top: 5px;
+}
+
+.act{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.app{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+    color: #F39911;
+    font-family: Rubik;
+}
+
+.apo{
+    text-align: center;
+    margin-top: 5px;
+}
+
+.elem{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.elo{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+    color: #16B442;
+    font-family: Rubik;
+}
+
+.eli{
+    text-align: center;
+    margin-top: 5px; 
+}
+
+
+.kid{
+    margin-top: 15px;
+    text-align: center;
+}
+
+.kido{
+    text-align: center;
+    font-size: 36px;
+    margin-top: 10px;
+    color: #D63232;
+    font-family: Rubik;
+}
+
+.mapo{
+    text-align: center;
+    margin-top: 5px; 
+}
+
+.bbb{
+    background: #2B6FF3;
+    width: 200px;
+    height: 180px;
+    clip-path: circle();
+    position: absolute;
+    top: 200px;
+    left: 247px;
+    opacity: 0.1;
+
+}
+
+.nnn{
+    background: #F39911;
+    width: 200px;
+    height: 180px;
+    clip-path: circle();
+    position: absolute;
+    left: 550px;
+    top: 200px;
+    opacity: 0.1;
+
+}
+
+
+.lll{
+    background: #16B442;
+    width: 200px;
+    height: 180px;
+    clip-path: circle();
+    position: absolute;
+    left: 850px;
+    top: 200px;
+    opacity: 0.1;
+
+}
+
+
+.ppp{
+    background: #D63232;
+    width: 200px;
+    height: 180px;
+    clip-path: circle();
+    position: absolute;
+    left: 1150px;
+    top: 200px;
+    opacity: 0.1;
+
+}
+
+/* frame */
+
+.frame-background{
+    background: #FFFFFF;
+     height: 530px;
+     margin-top: 60px;
+}
+
+.frame h1{
+    padding-top: 40px;
+    padding-left: 30px;
+    font-size: 24px;
+}
+
+.frame p{
+    padding-left: 33px;
+    padding-top: 18px;
+    font-size: 13px;
+}
+
+.nin{
+    background: #D63232;
+    width: 200px;
+    height: 200px;
+    clip-path: circle();
+    position: absolute;
+    top: 450px;
+    left: 195px;
+    opacity: 0.1;
+}
+
+.italy{
+    padding-left: 410px;
+    font-size: 14px;
+}
+
+
+.fran{
+    border: 1px solid #F1F4FA;
+    width: 370px;
+    height: 300px;
+    margin-left: 30px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.fran h3{
+    padding: 20px;
+    
+}
+
+.gabon{
+    display: flex;
+    line-height: 35px;
+}
+
+.gabon h4{
+    font-size: 14px;
+
+}
+
+.gab{
+  position: relative;
+  right: 21px;
+}
+
+.gabon p {
+ padding-left: 180px;
+ padding-top: 22px;
+ font-size: 18px;
+ color: #2B6FF3;
+
+}
+
+.gabon svg{
+    margin-left: 15px;
+    margin-top: 20px;
+}
+
+.gop{
+    border: 1px solid #F1F4FA;
+    width: 190px;
+    height: 85px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+
+.gop h3{
+    text-align: center;
+    padding: 12px 0;
+    color: #777F8D;
+    font-size: 14px;
+}
+
+
+.gop p{
+text-align: center;
+
+}
+
+
+
+.usa{
+    display: flex;
+}
+
+.kin{
+    color: #2B6FF3;
+    font-size: 18px;
+
+}
+
+.kip{
+    color: #16B442;
+    font-size: 18px;
+
+}
+
+.kis{
+    color: #F39911;
+    font-size: 18px;
+
+}
+
+
+.kiss{
+    color: #D63232;
+    font-size: 18px;
+
+}
+
+/* bang */
+
+.bang-background{
+    height: 300px;
+}
+
+.bang h4{
+    margin-top: 230px;
+    background: #E814540F;
+    color: #E81454;
+    width: 197px;
+    height: 39px;
+    padding: 10px 20px;
+    font-size: 14px;
+    border-radius: 999px;
+   
+
+}
+
+.bang svg{
+    margin-left: 700px;
+    margin-top: 70px;
+}
+
+.bano h1{
+    margin-top: 25px;
+    font-size: 36px;
+}
+
+.bano p{
+    margin-top: 20px;
+    font-size: 15px;
+    width:725px ;
+    height: 248px;
+    line-height: 31.44px;
+}
+
+.bang{
+    display: flex;
+}
+
+.bamm{
+    position: relative;
+    bottom: 530px;
+}
+
+
+/* information */
+
+.info-background{
+ background: #FFFFFF;
+ margin-top: 600px;
+ height: 850px;
+}
+ 
+
+
+.content-info svg{
+margin-top: 60px;
+}
+  
+.info-content{
+    display: flex;
+}
+
+.infot h1{
+    margin-top: 70px;
+    font-size: 36px;
+    width: 526px;
+    height: 86px;
+}
+
+.infot p{
+    width: 544px;
+    line-height:29.04px ;
+}
+
+.fomot h1{
+     margin-top: 20px;
+     font-size: 18px;
+}
+
+.fomot h1 span{
+    color: #16B442;
+    
+}
+
+.king{
+    border: 1px solid #F1F4FA ;
+    width: 154px;
+    height: 151px;
+   
+}
+
+
+
+
+.king svg{
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+.king p{
+padding-left: 23px;
+font-size: 13px;
+}
+
+.madam{
+    display: flex;
+
+}
+
+.moth{
+    border: 1px solid #F1F4FA ;
+    width: 154px;
+    height: 151px;
+   margin-left: 30px;
+}
+
+.moth svg{
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+.moth p{
+    padding-left: 23px;
+    font-size: 13px;
+}
+
+
+.mother{
+    border: 1px solid #F1F4FA ;
+    width: 154px;
+    height: 151px;
+   margin-left: 30px;
+}
+
+.mother svg{
+    margin-left: 32px;
+    margin-top: 20px;
+}
+
+.mother p{
+    padding-left: 23px;
+    font-size: 13px;
+}
+
+.fath{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 60px;
+}
+
+
+/* footer */
+
+.footer-background{
+  background: #FFFFFF;  
+  width: 100%;
+  height: 300px;
+  margin-top: 90px;
+}
+
+
+.content-foot{
+    display: flex;
+    
+    
+}
+
+.footer{
+    margin-top: 40px;
+}
+
+.footer h1{
+    font-size: 24px;
+    color: #2B6FF3;
+}
+
+.footer  h2{
+    padding-top: 10px;
+    font-size: 18px;
+}
+
+.footer p {
+    width: 387px;
+    height: 111px;
+    font-size: 14px;
+    line-height: 36.57px;
+}
+
+.useful{
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+.useful h1{
+    font-size: 24px;
+    color: #2B6FF3;
+}
+
+.useful p {
+    width: 150px;
+    height: 111px;
+    font-size: 14px;
+    line-height: 25px;
+    margin-top: 10px;
+}
+
+
+ .source{
+    background: #2B6FF3;
+     width: 300px;
+     height: 300px;
+     clip-path: circle();
+     position: absolute;
+     left: 640px;
+     opacity: 0.1;
+ }
+
+.number{
+    margin-top: 40px;
+    margin-left: 220px;
+}
+
+.number h1{
+    font-size: 24px;
+    color: #2B6FF3;
+
+}
+
+.number p {
+   margin-top: 20px;
+    font-size: 14px;
+    
+}
+
