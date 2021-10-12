@@ -46,6 +46,10 @@
 
     
     
+   body{
+       overflow-x: hidden;
+   }
+
   .nav-background{
       width: 1350px;
       
@@ -85,4 +89,10 @@
   .footer-background{
     width: 1350px;
   }
+}
+
+@media screen and (max-width: 411px) {
+ .card{
+     
+ }
 }
