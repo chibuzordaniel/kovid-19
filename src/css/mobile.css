@@ -1,0 +1,88 @@
+
+@media screen and (max-width: 1366px) {
+
+  body{
+      overflow-x: hidden;
+  }
+
+    .bbb{
+        position: absolute;
+        left: 135px;
+    }
+
+
+      body{
+          overflow-x: hidden;
+      }
+    .nnn{
+        position: absolute;
+        left: 435px;
+    }
+
+    .lll{
+        position: absolute;
+        left: 735px;
+    }
+
+
+    .ppp{
+        position: absolute;
+        left: 1035px;
+    }
+
+    .nin{
+        position: absolute;
+        left: 80px;
+    }
+
+
+    .source{
+        position: absolute;
+        left: 540px;
+    }
+}
+
+@media screen  and (max-width: 1024px) {
+
+    
+    
+  .nav-background{
+      width: 1350px;
+      
+  }
+
+
+
+  .track{
+      padding-left: 80px;
+  }
+
+  .case{
+      margin-left: 80px;
+      width: 1200px;
+  }
+
+  .frame-background{
+      margin-left: 80px;
+      width: 1200px;
+  }
+
+  .bang h4{
+      margin-left:80px ;
+      width: 00px;
+      font-size: 25px;
+  }
+
+  .bano{
+      margin-left: 80px;
+  }
+
+  .info-background{
+      margin-left: 80px;
+      width: 1200px;
+  }
+
+  .footer-background{
+    width: 1350px;
+  }
+}
