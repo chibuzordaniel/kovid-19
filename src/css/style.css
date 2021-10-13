@@ -477,6 +477,42 @@ text-align: center;
 }
  
 
+.kipoo svg{
+    margin-top:30px ;
+   margin-left:200px ;
+}
+
+.infom{
+    margin-top: 190px;
+    margin-left: -50px;
+}
+
+
+.infom h3{
+    font-size: 14px;
+    background: #E814540F;
+    width: 175px;
+    height: 30px;
+    border-radius: 999px;
+    padding: 7px 10px;
+    color: #E81454;
+
+    
+}
+
+
+
+.infom h1{
+    margin-top: 20px;
+    font-size: 36px;
+}
+
+.fomot{
+    margin-top: 20px;
+    line-height: 31.44px;
+    width: 725px;
+}
+
 
 .content-info svg{
 margin-top: 60px;
@@ -485,6 +521,8 @@ margin-top: 60px;
 .info-content{
     display: flex;
 }
+
+
 
 .infot h1{
     margin-top: 70px;

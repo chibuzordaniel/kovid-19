@@ -5,6 +5,9 @@
       overflow-x: hidden;
   }
 
+
+    
+
     .bbb{
         position: absolute;
         left: 135px;
@@ -33,6 +36,11 @@
     .nin{
         position: absolute;
         left: 80px;
+    }
+
+
+    .infom{
+        margin-left: 30px;
     }
 
 
@@ -92,7 +100,229 @@
 }
 
 @media screen and (max-width: 411px) {
- .card{
-     
+
+    .covid{
+        font-size: 90px;
+        margin-top: 50px;
+    }
+
+    .btn{
+        width: 1150px;
+        height: 150px;
+        margin-left: 40px;
+        text-align: center;
+        padding-top:35px;
+        font-size: 50px;
+    }
+
+    .ul{
+        display: none;
+    }
+
+    .svg svg{
+        width: 200px;
+        height: 130px;
+        margin-top: 40px;
+    }
+
+    .navbar{
+        display: block;
+    }
+
+   .nav-background{
+       height: 400px;
+   }
+
+ .total{
+   display: block;
+   padding-top: 30px;
  }
+
+ .track{
+    font-size: 60px; 
+    width: 600px;
+ }
+
+ .case{
+     margin-top: 30px;
+     height: 2700px;
+ }
+
+ .card{
+    background: #E5E5E5;
+     width: 999px;
+     height: 400px;
+     margin-left: 80px;
+     margin-top: 120px;
+     padding-top: 80px;
+ }
+
+ .card-one{
+    background: #F399110D;
+    width: 999px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 250px;
+    padding-top: 80px;
+ }
+ .card-two{
+    background: #16B4420D;
+    width: 999px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 250px;
+    padding-top: 80px;
+ }
+
+ .card-three{
+    background: #AA2A2A0D;
+    width: 999px;
+    height: 400px;
+    margin-left: 80px;
+    margin-top: 250px;
+    padding-top: 80px;
+ }
+
+ .tot{
+   font-size: 58px;
+ }
+
+ .pom{
+     font-size: 95px;
+ }
+
+ .pon{
+     font-size: 35px;
+ }
+ 
+ .tot{
+    font-size: 58px;
+  }
+ 
+  .app{
+      font-size: 95px;
+  }
+ 
+  .apo{
+      font-size: 35px;
+  }
+
+  .elem{
+    font-size: 58px;
+  }
+ 
+  .elo{
+      font-size: 95px;
+  }
+ 
+  .eli{
+      font-size: 35px;
+  }
+
+  .kid{
+    font-size: 58px;
+  }
+ 
+  .kido{
+      font-size: 95px;
+  }
+ 
+  .mapo{
+      font-size: 35px;
+  }
+
+  .bbb{
+      position: absolute;
+      top: 600px;
+      left: 370px;
+      width: 600px;
+      height: 600px;
+  }
+
+  .nnn{
+    position: absolute;
+    top: 1250px;
+    left: 370px;
+    width: 600px;
+    height: 600px;
+}
+
+
+.lll{
+    position: absolute;
+    top: 1900px;
+    left: 370px;
+    width: 600px;
+    height: 600px;
+}
+  
+.ppp{
+    position: absolute;
+    top: 2560px;
+    left: 370px;
+    width: 600px;
+    height: 600px;
+}
+  
+  
+.frame-background{
+    margin-top: 150px;
+}
+
+/* frame */
+
+.frame-background{
+    height: 1900px;
+}
+
+.usa{
+    display: block;
+}
+
+
+.moop svg{
+    display: none;
+}
+
+
+.frame h1{
+    font-size: 86px;
+    padding-left: 50px;
+}
+
+.frame p{
+    font-size: 50px;
+    padding-left: 50px;
+}
+
+.info-content{
+    margin-top: 500px;
+}
+
+.fran h3{
+    font-size: 70px;
+}
+
+.fran{
+    /* margin-left: 100px; */
+    width: 1050px;
+    height: 600px;
+    /* padding: 20px; */
+}
+.gabon svg{
+  width: 200px;
+  height: 70px;
+}
+
+
+.gabon h4{
+  font-size: 40px;  
+}
+
+.gabon p{
+    margin-top: 10px;
+   font-size: 70px; 
+  padding-left: 340px;
+}
+
 }
