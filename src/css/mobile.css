@@ -139,12 +139,14 @@
  }
 
  .track{
+     padding-top: 400px;
     font-size: 60px; 
     width: 600px;
+
  }
 
  .case{
-     margin-top: 30px;
+     margin-top: 70px;
      height: 2700px;
  }
 
@@ -199,6 +201,11 @@
     font-size: 58px;
   }
  
+
+  .act{
+ font-size: 58px;
+  }
+
   .app{
       font-size: 95px;
   }
@@ -233,7 +240,7 @@
 
   .bbb{
       position: absolute;
-      top: 600px;
+      top: 650px;
       left: 370px;
       width: 600px;
       height: 600px;
@@ -241,7 +248,7 @@
 
   .nnn{
     position: absolute;
-    top: 1250px;
+    top: 1300px;
     left: 370px;
     width: 600px;
     height: 600px;
@@ -250,7 +257,7 @@
 
 .lll{
     position: absolute;
-    top: 1900px;
+    top: 1950px;
     left: 370px;
     width: 600px;
     height: 600px;
@@ -258,12 +265,19 @@
   
 .ppp{
     position: absolute;
-    top: 2560px;
+    top: 2610px;
     left: 370px;
     width: 600px;
     height: 600px;
 }
   
+.nin{
+    position: absolute;
+    top: 3400px;
+    width: 600px;
+    height: 600px;
+
+}
   
 .frame-background{
     margin-top: 150px;
@@ -272,7 +286,7 @@
 /* frame */
 
 .frame-background{
-    height: 1900px;
+    height: 1950px;
 }
 
 .usa{
@@ -285,14 +299,22 @@
 }
 
 
+.italy{
+    position: relative;
+    top: 980px;
+    font-size: 45px;
+    margin-left: -320px;
+
+}
+
 .frame h1{
     font-size: 86px;
     padding-left: 50px;
 }
 
 .frame p{
-    font-size: 50px;
-    padding-left: 50px;
+    font-size: 45px;
+    padding-left: 60px;
 }
 
 .info-content{
@@ -303,10 +325,12 @@
     font-size: 70px;
 }
 
+
+
 .fran{
-    /* margin-left: 100px; */
+    margin-top: 30px;
     width: 1050px;
-    height: 600px;
+    height: 800px;
     /* padding: 20px; */
 }
 .gabon svg{
@@ -314,15 +338,124 @@
   height: 70px;
 }
 
+.gab{
+    margin-left: -50px;
+}
+
+.gabon{
+    padding-top: 20px;
+}
 
 .gabon h4{
-  font-size: 40px;  
+  font-size: 60px;  
+  line-height: 2.5;
 }
 
 .gabon p{
-    margin-top: 10px;
    font-size: 70px; 
   padding-left: 340px;
+  padding-top: 60px;
 }
+
+.nopp{
+    margin-top: 150px;
+    display: flex; 
+}
+
+
+.gop h3 {
+  padding-top: 70px;
+  font-size: 50px;
+}
+
+.gop p{
+    font-size: 65px;
+}
+
+
+.ghg{
+    margin-top: -150px;
+}
+
+.hnd{
+ margin-top:-120px ;   
+}
+
+.gop{
+    width: 350px;
+    height: 250px;
+}
+
+
+/* info */
+
+ .kipoo svg {
+     display: none;
+ }
+
+ .infom{
+   margin-top: -250px; 
+ }
+ 
+ .infom h1{
+     font-size: 90px;
+     width: 1400px;
+ }
+
+ .infom h3{
+   padding: 20px;
+   font-size: 50px;
+   width: 600px;
+   height: 120px;
+ }
+
+ .fomot p {
+     padding-top: 20px;
+     font-size: 35px;
+     width: 1100px;
+     line-height: 1.9;
+ }
+
+ /* info */
+
+
+ .info-content{
+     display: block;
+ }
+
+  .info-background{
+      margin-top: 790px;
+      height: 2300px;
+  }
+
+
+.content-info svg{
+    margin-left: 170px;
+    width: 800px;
+    height: 900px;
+} 
+
+
+ .footer-background{
+     margin-top: 900px;
+ }
+
+ .infot h1{
+     font-size: 120px;
+     padding-left: 100px;
+     width: 1200px;
+     height: 200px;
+ }
+
+ .fomot h1{
+     font-size: 20px;
+ }
+
+ .infot p{
+     padding-top: 330px ;
+     font-size: 50px;
+     padding-left: 100px;
+     width: 900px;
+ }
 
 }
