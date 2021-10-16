@@ -52,11 +52,10 @@
 
 @media screen  and (max-width: 1024px) {
 
-    
-    
    body{
        overflow-x: hidden;
-   }
+   }    
+   
 
   .nav-background{
       width: 1350px;
@@ -99,9 +98,16 @@
   }
 }
 
-@media screen and (max-width: 411px) {
+@media screen and (max-width: 500px) {
+
+     body{
+         overflow-x: hidden;
+     }
+
+
 
     .covid{
+        margin-left: -40px;
         font-size: 90px;
         margin-top: 50px;
     }
@@ -109,7 +115,7 @@
     .btn{
         width: 1150px;
         height: 150px;
-        margin-left: 40px;
+        margin-left: -100px;
         text-align: center;
         padding-top:35px;
         font-size: 50px;
@@ -120,6 +126,7 @@
     }
 
     .svg svg{
+        margin-left: -140px;
         width: 200px;
         height: 130px;
         margin-top: 40px;
@@ -130,6 +137,7 @@
     }
 
    .nav-background{
+       width: 1590px;
        height: 400px;
    }
 
@@ -425,7 +433,7 @@
 
   .info-background{
       margin-top: 790px;
-      height: 2300px;
+      height: 3600px;
   }
 
 
@@ -436,9 +444,7 @@
 } 
 
 
- .footer-background{
-     margin-top: 900px;
- }
+ 
 
  .infot h1{
      font-size: 120px;
@@ -456,6 +462,172 @@
      font-size: 50px;
      padding-left: 100px;
      width: 900px;
+     line-height: 1.9;
  }
 
+ .fomot h1{
+     margin-top: 90px;
+    font-size: 70px;
+ }
+
+ .madam{
+    margin-left: 90px;
+    
+ }
+
+ .king{
+    padding: 35px;
+    width: 310px; 
+    height: 330px;
+ }
+
+ .moth{
+    padding: 35px;
+    width: 310px; 
+    height: 330px;
+ }
+
+ .mother{
+    padding: 35px;
+    width: 310px; 
+    height: 330px;
+ }
+
+ .mother{
+    padding: 35px;
+    width: 310px; 
+    height: 330px;
+ }
+
+
+ .mother svg{
+   font-size: 50px;
+ }
+
+ .mother{
+     padding: 35px;
+    width: 310px; 
+    height: 330px;
+ }
+
+ .mother p{
+    margin-left: -70px ;
+    margin-top: -250px;
+    font-size: 25px; 
+ }
+
+ .king p{
+     margin-left: -70px ;
+    margin-top: -250px;
+     font-size: 25px;
+ }
+
+ .moth p{
+     margin-left: -70px ;
+     font-size: 25px;
+     margin-top: -250px;
+ }
+
+
+  .content-foot{
+      display: block;
+  }
+
+
+.footer-background{
+    height: 1800px;
+    width: 1590px;
+}
+
+
+.footer {
+    
+    
+}
+
+
+ .footer  h1  {
+     font-size: 75px;
+     padding-top: 60px;
+    /* margin-left: 300px; */
+}
+
+.footer svg{
+    margin-left: 180px;
+    width: 100px;
+    height: 90px;
+}
+
+.footer h2{
+    font-size: 65px;
+  margin-left: 350px;
+}
+
+.footer p{
+    margin-left: -50px;
+    line-height: 1.5;
+    width: 1100px;
+    font-size: 57px;
+    /* margin-left: 0px; */
+  }
+
+  .useful h1{
+    padding-top: 380px;
+    font-size: 75px;
+    margin-left: 150px; 
+  }
+
+  .useful p{
+      line-height: 1.5;
+      width: 800px;
+     font-size: 48px;
+
+   
+  }
+
+
+  .number h1  {
+      margin-left: -120px;
+      margin-top: 350px;
+      font-size: 75px;
+     
+  }
+
+   .number  p{
+       font-size: 50px;
+    margin-left: -50px; 
+   }
+
+
+
+     .source{
+         width: 650px;
+         height:650px ;
+        margin-top: 250px;
+        margin-left: -170px;
+     }
+
+
+  
+}
+
+@media screen and (max-width: 360px) {
+    .frame-background{
+        width: 1140px;
+    }
+
+    body{
+        overflow-x: visible;
+    }
+    .case{
+        width: 1140px;
+    }
+
+    .bang-background{
+        width: 1140px;
+    }
+
+    .info-background{
+        width: 1140px;
+    }
 }
