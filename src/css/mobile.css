@@ -66,6 +66,7 @@
 
   .track{
       padding-left: 80px;
+      width: 200px;
   }
 
   .case{
@@ -149,7 +150,7 @@
  .track{
      padding-top: 400px;
     font-size: 60px; 
-    width: 600px;
+    width: 700px;
 
  }
 
@@ -163,7 +164,7 @@
      width: 999px;
      height: 400px;
      margin-left: 80px;
-     margin-top: 120px;
+     margin-top: 90px;
      padding-top: 80px;
  }
 
@@ -172,7 +173,7 @@
     width: 999px;
     height: 400px;
     margin-left: 80px;
-    margin-top: 250px;
+    margin-top: 220px;
     padding-top: 80px;
  }
  .card-two{
@@ -180,7 +181,7 @@
     width: 999px;
     height: 400px;
     margin-left: 80px;
-    margin-top: 250px;
+    margin-top: 220px;
     padding-top: 80px;
  }
 
@@ -189,7 +190,7 @@
     width: 999px;
     height: 400px;
     margin-left: 80px;
-    margin-top: 250px;
+    margin-top: 220px;
     padding-top: 80px;
  }
 
@@ -281,7 +282,7 @@
   
 .nin{
     position: absolute;
-    top: 3400px;
+    top: 3450px;
     width: 600px;
     height: 600px;
 
@@ -411,10 +412,10 @@
  }
 
  .infom h3{
-   padding: 20px;
+   padding: 35px;
    font-size: 50px;
-   width: 600px;
-   height: 120px;
+   width: 650px;
+   height: 130px;
  }
 
  .fomot p {
@@ -432,7 +433,7 @@
  }
 
   .info-background{
-      margin-top: 790px;
+      margin-top: 850px;
       height: 3600px;
   }
 
@@ -447,9 +448,9 @@
  
 
  .infot h1{
-     font-size: 120px;
-     padding-left: 100px;
-     width: 1200px;
+     font-size: 100px;
+     padding-left: 70px;
+     width: 900px;
      height: 200px;
  }
 
@@ -549,7 +550,7 @@
  .footer  h1  {
      font-size: 75px;
      padding-top: 60px;
-    /* margin-left: 300px; */
+    margin-left: 10px;
 }
 
 .footer svg{
@@ -560,7 +561,7 @@
 
 .footer h2{
     font-size: 65px;
-  margin-left: 350px;
+  margin-left: 200px;
 }
 
 .footer p{
@@ -571,15 +572,19 @@
     /* margin-left: 0px; */
   }
 
+  .useful {
+    padding-left: -70px;  
+  }
+
   .useful h1{
     padding-top: 380px;
     font-size: 75px;
-    margin-left: 150px; 
+    margin-left: 60px; 
   }
 
   .useful p{
       line-height: 1.5;
-      width: 800px;
+      width: 600px;
      font-size: 48px;
 
    
@@ -604,7 +609,7 @@
          width: 650px;
          height:650px ;
         margin-top: 250px;
-        margin-left: -170px;
+        margin-left: -270px;
      }
 
 
@@ -616,8 +621,10 @@
         width: 1140px;
     }
 
+    
+
     body{
-        overflow-x: visible;
+        overflow-x: hidden;
     }
     .case{
         width: 1140px;
