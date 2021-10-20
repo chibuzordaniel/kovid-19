@@ -8,35 +8,11 @@
 
     
 
-    .bbb{
-        position: absolute;
-        left: 135px;
-    }
+   
 
 
-      body{
-          overflow-x: hidden;
-      }
-    .nnn{
-        position: absolute;
-        left: 435px;
-    }
 
-    .lll{
-        position: absolute;
-        left: 735px;
-    }
-
-
-    .ppp{
-        position: absolute;
-        left: 1035px;
-    }
-
-    .nin{
-        position: absolute;
-        left: 80px;
-    }
+  
 
 
     .infom{
@@ -44,10 +20,7 @@
     }
 
 
-    .source{
-        position: absolute;
-        left: 540px;
-    }
+  
 }
 
 @media screen  and (max-width: 1024px) {
@@ -58,7 +31,7 @@
    
 
   .nav-background{
-      width: 1350px;
+      
       
   }
 
@@ -250,7 +223,7 @@
   .bbb{
       position: absolute;
       top: 650px;
-      left: 370px;
+      margin-left: 330px;
       width: 600px;
       height: 600px;
   }
@@ -258,7 +231,7 @@
   .nnn{
     position: absolute;
     top: 1300px;
-    left: 370px;
+    margin-left: 330px;
     width: 600px;
     height: 600px;
 }
@@ -267,7 +240,7 @@
 .lll{
     position: absolute;
     top: 1950px;
-    left: 370px;
+    margin-left: 330px;
     width: 600px;
     height: 600px;
 }
@@ -275,14 +248,14 @@
 .ppp{
     position: absolute;
     top: 2610px;
-    left: 370px;
+    margin-left: 330px;
     width: 600px;
     height: 600px;
 }
   
 .nin{
     position: absolute;
-    top: 3450px;
+    top: 3400px;
     width: 600px;
     height: 600px;
 
@@ -609,7 +582,7 @@
          width: 650px;
          height:650px ;
         margin-top: 250px;
-        margin-left: -270px;
+        margin-left: 90px;
      }
 
 

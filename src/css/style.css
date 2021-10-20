@@ -6,7 +6,7 @@
 
 .container{
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0 auto ;
 }
 
 
@@ -250,7 +250,7 @@ height: 140px;
     clip-path: circle();
     position: absolute;
     top: 170px;
-    left: 247px;
+    margin-left: 45px;
     opacity: 0.1;
 
 }
@@ -261,7 +261,7 @@ height: 140px;
     height: 180px;
     clip-path: circle();
     position: absolute;
-    left: 550px;
+    margin-left: 345px;
     top: 170px;
     opacity: 0.1;
 
@@ -274,7 +274,7 @@ height: 140px;
     height: 180px;
     clip-path: circle();
     position: absolute;
-    left: 850px;
+    margin-left: 645px;
     top: 170px;
     opacity: 0.1;
 
@@ -287,7 +287,7 @@ height: 140px;
     height: 180px;
     clip-path: circle();
     position: absolute;
-    left: 1150px;
+     margin-left: 945px;
     top: 170px;
     opacity: 0.1;
 
@@ -320,7 +320,6 @@ height: 140px;
     clip-path: circle();
     position: absolute;
     top: 415px;
-    left: 190px;
     opacity: 0.1;
 }
 
@@ -345,14 +344,19 @@ height: 140px;
 }
 
 .gabon{
+    padding: 7px;
     display: flex;
-    line-height: 35px;
+    line-height: 27px;
 }
 
 .gabon h4{
-    font-size: 14px;
+    padding: 2px;
+    font-size: 18px;
+    
 
 }
+
+
 
 .gab{
   position: relative;
@@ -361,16 +365,13 @@ height: 140px;
 
 .gabon p {
  padding-left: 180px;
- padding-top: 22px;
+ padding-top: 5px;
  font-size: 18px;
  color: #2B6FF3;
 
 }
 
-.gabon svg{
-    margin-left: 15px;
-    margin-top: 20px;
-}
+
 
 .gop{
     border: 1px solid #F1F4FA;
@@ -484,7 +485,7 @@ text-align: center;
 
 .kipoo svg{
     margin-top:30px ;
-   margin-left:200px ;
+   margin-left:150px ;
 }
 
 .infom{
@@ -561,7 +562,7 @@ margin-top: 60px;
 
 
 
-.king svg{
+.king img{
     margin-left: 32px;
     margin-top: 20px;
 }
@@ -583,7 +584,7 @@ font-size: 13px;
    margin-left: 30px;
 }
 
-.moth svg{
+.moth img{
     margin-left: 32px;
     margin-top: 20px;
 }
@@ -601,7 +602,7 @@ font-size: 13px;
    margin-left: 30px;
 }
 
-.mother svg{
+.mother img{
     margin-left: 32px;
     margin-top: 20px;
 }
@@ -680,7 +681,7 @@ font-size: 13px;
      height: 300px;
      clip-path: circle();
      position: absolute;
-     left: 640px;
+     margin-left: 445px;
      opacity: 0.1;
  }
 
