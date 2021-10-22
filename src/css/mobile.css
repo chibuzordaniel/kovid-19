@@ -6,17 +6,24 @@
   }
 
 
-    
+    .nav-background{
+     
+        width: 100%;
+    }
 
    
+   .navbar{
+    padding-right: 100px;
+   }
 
-
-
+   .nav-log{
+       margin-left:-100px ;
+   }
   
 
 
     .infom{
-        margin-left: 30px;
+        
     }
 
 
@@ -36,6 +43,48 @@
   }
 
 
+  .track{
+      width: 800px;
+  }
+
+  .infom{
+      margin-left: 20px;
+  }
+
+  .bbb{
+    position: absolute;
+    top: 200px;
+    margin-left: 125px;
+}
+
+.nnn{
+  position: absolute;
+  top: 200px;
+  margin-left: 425px;
+}
+
+
+.lll{
+  position: absolute;
+  top: 200px;
+  margin-left: 730px;
+}
+
+.ppp{
+  position: absolute;
+  top: 200px;
+  margin-left: 1025px;
+}
+
+.nin{
+  position: absolute;
+  top: 445px;
+ 
+
+}
+
+
+ 
 
   .track{
       padding-left: 80px;
@@ -78,10 +127,10 @@
          overflow-x: hidden;
      }
 
-
+     
 
     .covid{
-        margin-left: -40px;
+        margin-left: -170px;
         font-size: 90px;
         margin-top: 50px;
     }
@@ -99,8 +148,12 @@
         display: none;
     }
 
+    .moop{
+        display: none;
+    }
+
     .svg svg{
-        margin-left: -140px;
+        margin-right:150px ;
         width: 200px;
         height: 130px;
         margin-top: 40px;
@@ -247,7 +300,7 @@
   
 .ppp{
     position: absolute;
-    top: 2610px;
+    top: 2580px;
     margin-left: 330px;
     width: 600px;
     height: 600px;
@@ -263,12 +316,13 @@
   
 .frame-background{
     margin-top: 150px;
+    height: 200px;
 }
 
 /* frame */
 
 .frame-background{
-    height: 1950px;
+    height: 2250px;
 }
 
 .usa{
@@ -283,7 +337,7 @@
 
 .italy{
     position: relative;
-    top: 980px;
+    top: 1270px;
     font-size: 45px;
     margin-left: -320px;
 
@@ -312,13 +366,15 @@
 .fran{
     margin-top: 30px;
     width: 1050px;
-    height: 800px;
+    height: 900px;
     /* padding: 20px; */
 }
-.gabon svg{
-  width: 200px;
-  height: 70px;
-}
+
+ .gabon img{
+     width: 85px;
+     height: 90px;
+     margin-top: 30px;
+ }
 
 .gab{
     margin-left: -50px;
@@ -335,7 +391,7 @@
 
 .gabon p{
    font-size: 70px; 
-  padding-left: 340px;
+  padding-left: 500px;
   padding-top: 60px;
 }
 
@@ -406,8 +462,9 @@
  }
 
   .info-background{
-      margin-top: 850px;
-      height: 3600px;
+      margin-top: 990px;
+      height: 3500px;
+     
   }
 
 
@@ -417,7 +474,10 @@
     height: 900px;
 } 
 
-
+.fran{
+    width: 1070px; 
+    height: 1100px;
+ }
  
 
  .infot h1{
@@ -523,7 +583,7 @@
  .footer  h1  {
      font-size: 75px;
      padding-top: 60px;
-    margin-left: 10px;
+    margin-left: -50px;
 }
 
 .footer svg{
@@ -534,7 +594,7 @@
 
 .footer h2{
     font-size: 65px;
-  margin-left: 200px;
+    margin-left: 300px;
 }
 
 .footer p{
@@ -550,7 +610,7 @@
   }
 
   .useful h1{
-    padding-top: 380px;
+    padding-top: 480px;
     font-size: 75px;
     margin-left: 60px; 
   }
@@ -565,15 +625,15 @@
 
 
   .number h1  {
-      margin-left: -120px;
-      margin-top: 350px;
+      margin-left: -220px;
+      margin-top: 400px;
       font-size: 75px;
      
   }
 
    .number  p{
        font-size: 50px;
-    margin-left: -50px; 
+    margin-left: -100px; 
    }
 
 
@@ -581,10 +641,12 @@
      .source{
          width: 650px;
          height:650px ;
-        margin-top: 250px;
+        margin-top: 350px;
         margin-left: 90px;
      }
 
+
+     
 
   
 }
