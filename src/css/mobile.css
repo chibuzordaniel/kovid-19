@@ -515,6 +515,11 @@
     height: 330px;
  }
 
+ .king img{
+     width: 140px;
+     height: 120px;
+ }
+
  .moth{
     padding: 35px;
     width: 310px; 
@@ -522,6 +527,17 @@
  }
 
  .mother{
+     margin-left: 80px;
+ }
+ 
+ .moth img{
+    width: 140px;
+    height: 120px; 
+ }
+
+ 
+
+ .mother{
     padding: 35px;
     width: 310px; 
     height: 330px;
@@ -533,21 +549,18 @@
     height: 330px;
  }
 
-
- .mother svg{
-   font-size: 50px;
+ .mother img{
+    width: 140px;
+    height: 120px;
  }
 
- .mother{
-     padding: 35px;
-    width: 310px; 
-    height: 330px;
- }
+
+
 
  .mother p{
-    margin-left: -70px ;
-    margin-top: -250px;
-    font-size: 25px; 
+    margin-left: -90px ;
+    margin-top: -270px;
+    font-size: 27px; 
  }
 
  .king p{
@@ -639,8 +652,8 @@
 
 
      .source{
-         width: 650px;
-         height:650px ;
+         width: 700px;
+         height:700px ;
         margin-top: 350px;
         margin-left: 90px;
      }
