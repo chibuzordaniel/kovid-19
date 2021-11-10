@@ -87,7 +87,7 @@
  
 
   .track{
-      padding-left: 80px;
+      padding-left: 110px;
       width: 200px;
   }
 
@@ -138,9 +138,9 @@
     }
 
     .btn{
-        width: 1010px;
+        width: 1210px;
         height: 150px;
-        margin-left: -150px;
+        margin-left: -120px;
         text-align: center;
         padding-top:35px;
         font-size: 70px;
@@ -185,42 +185,42 @@
  .case{
      margin-top: 70px;
      height: 2800px;
-     margin-left: 30px;
+     margin-left: 80px;
  }
 
  .card{
     background: #E5E5E5;
-     width: 979px;
+     width: 999px;
      height: 400px;
-     margin-left: 30px;
+     margin-left: 110px;
      margin-top: 90px;
      padding-top: 80px;
  }
 
  .card-one{
     background: #F399110D;
-    width: 979px;
+    width: 999px;
     height: 400px;
-    margin-left: 30px;
+    margin-left: 110px;
     margin-top: 320px;
     padding-top: 80px;
  }
  .card-two{
     background: #16B4420D;
-    width: 979px;
+    width: 999px;
     height: 400px;
-    margin-left: 30px;
+    margin-left: 110px;
     margin-top: 320px;
     padding-top: 80px;
  }
 
  .card-three{
     background: #AA2A2A0D;
-    width: 979px;
+    width: 999px;
     height: 400px;
-    margin-left: 30px;
-    margin-top: 220px;
-    padding-top: 90px;
+    margin-left: 110px;
+    margin-top: 300px;
+    padding-top: 80px;
  }
 
  .tot{
@@ -279,7 +279,7 @@
   .bbb{
       position: absolute;
       top: 650px;
-      margin-left: 250px;
+      margin-left: 370px;
       width: 600px;
       height: 600px;
   }
@@ -287,7 +287,7 @@
   .nnn{
     position: absolute;
     top: 1351px;
-    margin-left: 250px;
+    margin-left: 370px;
     width: 600px;
     height: 600px;
 }
@@ -296,15 +296,15 @@
 .lll{
     position: absolute;
     top: 2050px;
-    margin-left: 250px;
+    margin-left: 370px;
     width: 600px;
     height: 600px;
 }
   
 .ppp{
     position: absolute;
-    top: 2720px;
-    margin-left: 250px;
+    top: 2750px;
+    margin-left: 370px;
     width: 600px;
     height: 600px;
 }
@@ -445,9 +445,9 @@
  }
 
  .infom h3{
-   padding:40px 60px;
+   padding:40px 95px;
    font-size: 40px;
-   width: 600px;
+   width: 700px;
    height: 130px;
  }
 
