@@ -127,7 +127,9 @@
          overflow-x: hidden;
      }
 
-     
+     .track{
+         margin-left: -40px;
+     }
 
     .covid{
         margin-left: -170px;
@@ -136,9 +138,9 @@
     }
 
     .btn{
-        width: 1150px;
+        width: 1010px;
         height: 150px;
-        margin-left: -100px;
+        margin-left: -150px;
         text-align: center;
         padding-top:35px;
         font-size: 70px;
@@ -182,42 +184,44 @@
 
  .case{
      margin-top: 70px;
-     height: 2700px;
+     height: 2800px;
+     width: 1034px;
+     margin-left: 40px;
  }
 
  .card{
     background: #E5E5E5;
-     width: 999px;
+     width: 979px;
      height: 400px;
-     margin-left: 80px;
+     margin-left: 30px;
      margin-top: 90px;
      padding-top: 80px;
  }
 
  .card-one{
     background: #F399110D;
-    width: 999px;
+    width: 979px;
     height: 400px;
-    margin-left: 80px;
-    margin-top: 220px;
+    margin-left: 30px;
+    margin-top: 320px;
     padding-top: 80px;
  }
  .card-two{
     background: #16B4420D;
-    width: 999px;
+    width: 979px;
     height: 400px;
-    margin-left: 80px;
-    margin-top: 220px;
+    margin-left: 30px;
+    margin-top: 320px;
     padding-top: 80px;
  }
 
  .card-three{
     background: #AA2A2A0D;
-    width: 999px;
+    width: 979px;
     height: 400px;
-    margin-left: 80px;
+    margin-left: 30px;
     margin-top: 220px;
-    padding-top: 80px;
+    padding-top: 90px;
  }
 
  .tot{
@@ -276,15 +280,15 @@
   .bbb{
       position: absolute;
       top: 650px;
-      margin-left: 330px;
+      margin-left: 250px;
       width: 600px;
       height: 600px;
   }
 
   .nnn{
     position: absolute;
-    top: 1300px;
-    margin-left: 330px;
+    top: 1351px;
+    margin-left: 250px;
     width: 600px;
     height: 600px;
 }
@@ -292,23 +296,23 @@
 
 .lll{
     position: absolute;
-    top: 1950px;
-    margin-left: 330px;
+    top: 2050px;
+    margin-left: 250px;
     width: 600px;
     height: 600px;
 }
   
 .ppp{
     position: absolute;
-    top: 2580px;
-    margin-left: 330px;
+    top: 2720px;
+    margin-left: 250px;
     width: 600px;
     height: 600px;
 }
   
 .nin{
     position: absolute;
-    top: 3400px;
+    top: 3470px;
     width: 600px;
     height: 600px;
 
@@ -444,7 +448,7 @@
  .infom h3{
    padding:40px 60px;
    font-size: 40px;
-   width: 700px;
+   width: 600px;
    height: 130px;
  }
 
