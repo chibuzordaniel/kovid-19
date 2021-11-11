@@ -25,4 +25,14 @@ fetch(url)
 
 
 
+// const url = "https://api.covid19api.com/countries";
+// fetch(url)
+// .then(res => res.json())
+// .then(data => {
+//  console.log(data)
+
+// })
+
+
+
 
