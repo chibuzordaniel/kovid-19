@@ -1,5 +1,5 @@
 
-alert('Hello: Welcome To My Covid-19 Api')
+alert('Hello: Welcome To My Covid-19 App')
 
 var name = prompt('Please Input Your Name')
 
