@@ -1,5 +1,8 @@
-// let date = document.getElementsByClassName('btn');
-// console.log(date)
+
+alert('Hello: Welcome To My Covid-19 Api')
+
+var name = prompt('Please Input Your Name')
+
 
 const d = new Date;
 console.log(d.toDateString())
@@ -31,11 +34,6 @@ fetch(url)
 .then(data =>{
     console.log(data)
 })
-
-
-
-
-
 
 
 
