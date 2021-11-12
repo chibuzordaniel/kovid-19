@@ -21,17 +21,20 @@ fetch(url)
     document.querySelector('.app').innerHTML = data.Global.NewConfirmed;
     document.querySelector('.elo').innerHTML = data.Global.TotalRecovered;
     document.querySelector('.kido').innerHTML = data.Global.TotalDeaths;
+
 }) 
 
 
+const ul = "https://api.covid19api.com/countries"
+fetch(url)
+.then(res => res.json())
+.then(data =>{
+    console.log(data)
+})
 
-// const url = "https://api.covid19api.com/countries";
-// fetch(url)
-// .then(res => res.json())
-// .then(data => {
-//  console.log(data)
 
-// })
+
+
 
 
 
