@@ -94,6 +94,7 @@
   .case{
       margin-left: 80px;
       width: 1200px;
+    
   }
 
   .frame-background{
@@ -167,8 +168,10 @@
     }
 
    .nav-background{
+       
        width: 1650px;
        height: 400px;
+       
    }
 
  .total{
@@ -187,7 +190,7 @@
      margin-top: 70px;
      height: 2850px;
      width: 1475px;
-     margin-left: 80px;
+     margin-left: 30px;
  }
 
  .card{
@@ -329,6 +332,7 @@
 .frame-background{
     height: 2350px;
     width: 1475px;
+    margin-left: 30px;
 
 }
 
@@ -481,6 +485,7 @@
       margin-top: 1110px;
       height: 3700px;
       width: 1475px;
+      margin-left: 30px;
      
   }
 
