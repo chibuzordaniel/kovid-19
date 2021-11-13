@@ -538,7 +538,7 @@
  }
 
  .king{
-    padding: 35px;
+    padding: 36px;
     width: 350px; 
     height: 330px;
  }
@@ -691,7 +691,7 @@
   
 }
 
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
     .frame-background{
         width: 1300px;
     }
@@ -843,4 +843,4 @@
         width: 1300px;
         margin-top: 1400px;
     }
-}
+} */
