@@ -140,9 +140,9 @@
     }
 
     .btn{
-        width: 1380px;
+        width: 1420px;
         height: 150px;
-        margin-left: -120px;
+        margin-left: -160px;
         text-align: center;
         padding-top:35px;
         font-size: 70px;
@@ -180,6 +180,7 @@
  }
 
  .track{
+     margin-left: -60px;
      padding-top: 400px;
     font-size: 80px; 
     width: 900px;
@@ -190,7 +191,7 @@
      margin-top: 70px;
      height: 2850px;
      width: 1475px;
-     margin-left: 30px;
+     margin-left: 50px;
  }
 
  .card{
@@ -332,7 +333,7 @@
 .frame-background{
     height: 2350px;
     width: 1475px;
-    margin-left: 30px;
+    margin-left: 50px;
 
 }
 
@@ -482,10 +483,10 @@
  }
 
   .info-background{
-      margin-top: 1110px;
+      margin-top: 1310px;
       height: 3700px;
       width: 1475px;
-      margin-left: 30px;
+      margin-left: 50px;
      
   }
 
