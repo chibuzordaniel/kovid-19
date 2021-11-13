@@ -166,7 +166,7 @@
     }
 
    .nav-background{
-       width: 1590px;
+       width: 1650px;
        height: 400px;
    }
 
@@ -185,6 +185,7 @@
  .case{
      margin-top: 70px;
      height: 2800px;
+     width: 1475px;
      margin-left: 80px;
  }
 
@@ -326,6 +327,8 @@
 
 .frame-background{
     height: 2250px;
+    width: 1475px;
+
 }
 
 .usa{
@@ -473,6 +476,7 @@
   .info-background{
       margin-top: 990px;
       height: 3500px;
+      width: 1475px;
      
   }
 
