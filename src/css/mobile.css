@@ -765,8 +765,68 @@
   }
 
    .gop{
-       width: 400px;
+       width: 395px;
    }
+
+   .infom h3{
+       padding: 40px;
+       font-size: 40px;
+       width: 640px;
+   }
+
+
+   .infom h1{
+      font-size: 90px;
+   }
+
+
+   .fomot p{
+       width: 1200px;
+   }
+
+
+   .infot h1{
+     font-size: 90px;  
+   }
+
+   .mother{
+
+       width: 370px;
+   }
+
+   .mother p{
+       font-size: 30px;
+   }
+
+   .moth{
+       width: 340px;
+       
+   }
+
+   .moth p{
+    font-size: 30px;
+}
+
+  .footer{
+      margin-left: -120px;
+  }
+
+  .useful{
+      margin-left: 0px;
+  }
+
+
+    .number{
+        margin-left: 50px;
+    }
+
+
+
+
+  .source{
+      margin-left: 30px;
+  }
+
 
     body{
         overflow-x: hidden;
@@ -781,5 +841,6 @@
 
     .info-background{
         width: 1300px;
+        margin-top: 1400px;
     }
 }
