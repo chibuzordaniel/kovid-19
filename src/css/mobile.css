@@ -691,25 +691,95 @@
   
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 400px) {
     .frame-background{
-        width: 1280px;
+        width: 1300px;
     }
 
+    .btn{
+       width: 1270px; 
+    }
+
+    .card{
+        width: 1120px;
+    }
+
+    .card-one{
+        width: 1120px;
+    }
+
+    .card-two{
+        width: 1120px;
+    }
+
+    .card-three{
+        width: 1120px;
+    }
+
+
     
+  .bbb{
+    position: absolute;
+    top: 680px;
+    margin-left: 420px;
+    width: 600px;
+    height: 600px;
+}
+
+.nnn{
+  position: absolute;
+  top: 1411px;
+  margin-left: 420px;
+  width: 600px;
+  height: 600px;
+}
+
+
+.lll{
+  position: absolute;
+  top: 2110px;
+  margin-left: 420px;
+  width: 600px;
+  height: 600px;
+}
+
+.ppp{
+  position: absolute;
+  top: 2790px;
+  margin-left: 420px;
+  width: 600px;
+  height: 600px;
+}
+
+  .fran{
+      width: 1210px;
+  }
+
+  .gab{
+      position: absolute;
+      left: 360px;  
+  }
+
+  .fran p {
+    margin-left: -70px;  
+  }
+
+   .gop{
+       width: 400px;
+   }
 
     body{
         overflow-x: hidden;
     }
     .case{
-        width: 1280px;
+        width: 1300px;
     }
 
     .bang-background{
-        width: 1280px;
+        width: 1300px;
     }
 
     .info-background{
-        width: 1280px;
+        width: 1300px;
     }
 }
