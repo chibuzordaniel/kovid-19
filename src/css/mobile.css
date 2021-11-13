@@ -454,6 +454,7 @@
      font-size: 120px;
      width: 1400px;
      margin-top: 30px;
+     margin-left: -30px;
  }
 
  .infom h3{
@@ -461,6 +462,7 @@
    font-size: 50px;
    width: 850px;
    height: 130px;
+   margin-left: -30px;
  }
 
  .gupp{
@@ -471,8 +473,9 @@
  .fomot p {
      padding-top: 20px;
      font-size: 47px;
-     width: 1500px;
+     width: 1400px;
      line-height: 1.9;
+     margin-left: -30px;
  }
 
  /* info */
