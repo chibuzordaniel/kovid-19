@@ -129,16 +129,17 @@
 
      .track{
          margin-left: -40px;
+         
      }
 
     .covid{
         margin-left: -170px;
-        font-size: 90px;
+        font-size: 110px;
         margin-top: 50px;
     }
 
     .btn{
-        width: 1110px;
+        width: 1380px;
         height: 150px;
         margin-left: -120px;
         text-align: center;
@@ -177,50 +178,50 @@
 
  .track{
      padding-top: 400px;
-    font-size: 60px; 
-    width: 700px;
+    font-size: 80px; 
+    width: 900px;
 
  }
 
  .case{
      margin-top: 70px;
-     height: 2800px;
+     height: 2850px;
      width: 1475px;
      margin-left: 80px;
  }
 
  .card{
     background: #E5E5E5;
-     width: 999px;
-     height: 400px;
+     width: 1299px;
+     height: 430px;
      margin-left: 90px;
-     margin-top: 90px;
+     margin-top: 120px;
      padding-top: 80px;
  }
 
  .card-one{
     background: #F399110D;
-    width: 999px;
-    height: 400px;
+    width: 1299px;
+    height: 430px;
     margin-left: 90px;
-    margin-top: 320px;
+    margin-top: 300px;
     padding-top: 80px;
  }
  .card-two{
     background: #16B4420D;
-    width: 999px;
-    height: 400px;
+    width: 1299px;
+    height: 430px;
     margin-left: 90px;
-    margin-top: 320px;
+    margin-top: 250px;
     padding-top: 80px;
  }
 
  .card-three{
     background: #AA2A2A0D;
-    width: 999px;
-    height: 400px;
+    width: 1299px;
+    height: 430px;
     margin-left: 90px;
-    margin-top: 300px;
+    margin-top: 260px;
     padding-top: 80px;
  }
 
@@ -279,16 +280,16 @@
 
   .bbb{
       position: absolute;
-      top: 650px;
-      margin-left: 370px;
+      top: 680px;
+      margin-left: 500px;
       width: 600px;
       height: 600px;
   }
 
   .nnn{
     position: absolute;
-    top: 1351px;
-    margin-left: 370px;
+    top: 1411px;
+    margin-left: 500px;
     width: 600px;
     height: 600px;
 }
@@ -296,23 +297,23 @@
 
 .lll{
     position: absolute;
-    top: 2050px;
-    margin-left: 370px;
+    top: 2110px;
+    margin-left: 500px;
     width: 600px;
     height: 600px;
 }
   
 .ppp{
     position: absolute;
-    top: 2750px;
-    margin-left: 370px;
+    top: 2790px;
+    margin-left: 500px;
     width: 600px;
     height: 600px;
 }
   
 .nin{
     position: absolute;
-    top: 3470px;
+    top: 3550px;
     width: 600px;
     height: 600px;
 
@@ -326,7 +327,7 @@
 /* frame */
 
 .frame-background{
-    height: 2250px;
+    height: 2350px;
     width: 1475px;
 
 }
@@ -334,6 +335,8 @@
 .usa{
     display: block;
 }
+
+
 
 
 .moop svg{
@@ -344,18 +347,18 @@
 .italy{
     position: relative;
     top: 1270px;
-    font-size: 45px;
+    font-size: 55px;
     margin-left: -320px;
 
 }
 
 .frame h1{
-    font-size: 86px;
+    font-size: 96px;
     padding-left: 50px;
 }
 
 .frame p{
-    font-size: 45px;
+    font-size: 60px;
     padding-left: 60px;
 }
 
@@ -364,41 +367,42 @@
 }
 
 .fran h3{
-    font-size: 70px;
+    font-size: 80px;
 }
 
 
 
 .fran{
-    margin-top: 30px;
+    margin-top: 40px;
     width: 1050px;
     height: 900px;
     /* padding: 20px; */
 }
 
  .gabon img{
-     width: 85px;
-     height: 90px;
+     width: 115px;
+     height: 120px;
      margin-top: 30px;
+     margin-left: 20px;
  }
 
 .gab{
-    margin-left: -50px;
+    margin-left: -70px;
 }
 
 .gabon{
-    padding-top: 20px;
+    padding-top: 5px;
 }
 
 .gabon h4{
-  font-size: 60px;  
+  font-size: 70px;  
   line-height: 2.5;
 }
 
 .gabon p{
    font-size: 70px; 
-  padding-left: 500px;
-  padding-top: 60px;
+  padding-left: 700px;
+  padding-top: 75px;
 }
 
 .nopp{
@@ -426,7 +430,7 @@
 }
 
 .gop{
-    width: 350px;
+    width: 440px;
     height: 250px;
 }
 
@@ -442,15 +446,15 @@
  }
  
  .infom h1{
-     font-size: 90px;
+     font-size: 120px;
      width: 1400px;
      margin-top: 30px;
  }
 
  .infom h3{
    padding:40px 95px;
-   font-size: 40px;
-   width: 700px;
+   font-size: 50px;
+   width: 850px;
    height: 130px;
  }
 
@@ -461,8 +465,8 @@
  
  .fomot p {
      padding-top: 20px;
-     font-size: 35px;
-     width: 1100px;
+     font-size: 47px;
+     width: 1500px;
      line-height: 1.9;
  }
 
@@ -474,47 +478,49 @@
  }
 
   .info-background{
-      margin-top: 990px;
-      height: 3500px;
+      margin-top: 1110px;
+      height: 3700px;
       width: 1475px;
      
   }
 
 
 .content-info svg{
-    margin-left: 170px;
-    width: 800px;
-    height: 900px;
+    margin-left: 220px;
+    width: 820px;
+    height: 990px;
 } 
 
 .fran{
-    width: 1070px; 
+    padding-top: 40px;
+    width: 1350px; 
     height: 1100px;
  }
  
 
  .infot h1{
-     font-size: 100px;
-     padding-left: 70px;
-     width: 900px;
+     font-size: 130px;
+     padding-left: 90px;
+     width: 1190px;
      height: 200px;
  }
 
  .fomot h1{
      font-size: 20px;
+     
  }
 
  .infot p{
      padding-top: 330px ;
-     font-size: 50px;
+     font-size: 70px;
      padding-left: 100px;
-     width: 900px;
+     width: 1180px;
      line-height: 1.9;
  }
 
  .fomot h1{
      margin-top: 90px;
-    font-size: 70px;
+    font-size: 90px;
  }
 
  .madam{
@@ -524,18 +530,19 @@
 
  .king{
     padding: 35px;
-    width: 310px; 
+    width: 350px; 
     height: 330px;
  }
 
  .king img{
-     width: 140px;
+    padding-left: 50px;
+     width: 180px;
      height: 120px;
  }
 
  .moth{
     padding: 35px;
-    width: 310px; 
+    width: 410px; 
     height: 330px;
  }
 
@@ -544,27 +551,25 @@
  }
  
  .moth img{
-    width: 140px;
+     padding-left: 50px;
+    width: 180px;
     height: 120px; 
  }
 
  
 
  .mother{
-    padding: 35px;
-    width: 310px; 
+    padding: 45px;
+    width: 450px; 
     height: 330px;
  }
 
- .mother{
-    padding: 35px;
-    width: 310px; 
-    height: 330px;
- }
+
 
  .mother img{
-    width: 140px;
+    width: 180px;
     height: 120px;
+    padding-left: 50px;
  }
 
 
@@ -572,20 +577,20 @@
 
  .mother p{
     margin-left: -90px ;
-    margin-top: -270px;
-    font-size: 27px; 
+    margin-top: -280px;
+    font-size: 37px; 
  }
 
  .king p{
-     margin-left: -70px ;
-    margin-top: -250px;
-     font-size: 25px;
+     margin-left: -90px ;
+    margin-top: -280px;
+     font-size: 37px;
  }
 
  .moth p{
-     margin-left: -70px ;
-     font-size: 25px;
-     margin-top: -250px;
+     margin-left: -90px ;
+     font-size: 37px;
+     margin-top: -280px;
  }
 
 
@@ -596,7 +601,7 @@
 
 .footer-background{
     height: 1800px;
-    width: 1590px;
+    width: 1675px;
 }
 
 
@@ -609,7 +614,7 @@
  .footer  h1  {
      font-size: 75px;
      padding-top: 60px;
-    margin-left: -50px;
+    margin-left: 20px;
 }
 
 .footer svg{
@@ -620,11 +625,11 @@
 
 .footer h2{
     font-size: 65px;
-    margin-left: 300px;
+    margin-left: 400px;
 }
 
 .footer p{
-    margin-left: -50px;
+    margin-left: 40px;
     line-height: 1.5;
     width: 1100px;
     font-size: 57px;
@@ -632,7 +637,7 @@
   }
 
   .useful {
-    padding-left: -70px;  
+    padding-left: 120px;  
   }
 
   .useful h1{
@@ -651,7 +656,7 @@
 
 
   .number h1  {
-      margin-left: -220px;
+      margin-left: -80px;
       margin-top: 400px;
       font-size: 75px;
      
@@ -659,7 +664,7 @@
 
    .number  p{
        font-size: 50px;
-    margin-left: -100px; 
+    margin-left: 20px; 
    }
 
 
@@ -668,7 +673,7 @@
          width: 700px;
          height:700px ;
         margin-top: 350px;
-        margin-left: 90px;
+        margin-left: 180px;
      }
 
 
@@ -679,7 +684,7 @@
 
 @media screen and (max-width: 360px) {
     .frame-background{
-        width: 1140px;
+        width: 1280px;
     }
 
     
@@ -688,14 +693,14 @@
         overflow-x: hidden;
     }
     .case{
-        width: 1140px;
+        width: 1280px;
     }
 
     .bang-background{
-        width: 1140px;
+        width: 1280px;
     }
 
     .info-background{
-        width: 1140px;
+        width: 1280px;
     }
 }
