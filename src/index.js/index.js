@@ -1,5 +1,7 @@
 
+alert('Hello: Welcome To My Covid-19 App')
 
+var name = prompt('Please Input Your Name')
 
 
 const d = new Date;
