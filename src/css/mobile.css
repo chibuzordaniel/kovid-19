@@ -190,7 +190,7 @@
  .case{
      margin-top: 70px;
      height: 2850px;
-     width: 1475px;
+     width: 1550px;
      margin-left: 50px;
  }
 
@@ -332,7 +332,7 @@
 
 .frame-background{
     height: 2350px;
-    width: 1475px;
+    width: 1550px;
     margin-left: 50px;
 
 }
@@ -488,7 +488,7 @@
   .info-background{
       margin-top: 1310px;
       height: 3700px;
-      width: 1475px;
+      width: 1550px;
       margin-left: 50px;
      
   }
@@ -693,7 +693,7 @@
 
  @media screen and (max-width: 400px) {
     .frame-background{
-        width: 1300px;
+        width: 1350px;
     }
 
     .btn{
@@ -808,23 +808,23 @@
 }
 
   .footer{
-      margin-left: -120px;
+      margin-left: -90px;
   }
 
   .useful{
-      margin-left: 0px;
+      margin-left: 100px;
   }
 
 
     .number{
-        margin-left: 50px;
+        margin-left: 110px;
     }
 
 
 
 
   .source{
-      margin-left: 30px;
+      margin-left: 120px;
   }
 
 
@@ -832,15 +832,15 @@
         overflow-x: hidden;
     }
     .case{
-        width: 1300px;
+        width: 1350px;
     }
 
     .bang-background{
-        width: 1300px;
+        width: 1350px;
     }
 
     .info-background{
-        width: 1300px;
-        margin-top: 1400px;
+        width: 1350px;
+        margin-top: 1500px;
     }
 } 
