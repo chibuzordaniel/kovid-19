@@ -933,11 +933,11 @@
        }
 
        .mother p {
-           font-size: 25px;
+           font-size: 20px;
        }
 
        .king p{
-           font-size: 25px;
+           font-size: 20px;
        }
 
 
@@ -946,7 +946,7 @@
        }
 
        .moth p{
-           font-size: 25px;
+           font-size: 20px;
        }
 
 
@@ -962,7 +962,7 @@
 
 
        .number{
-           margin-left: -20px;
+           margin-left: -40px;
        }
 
        .source{
