@@ -682,7 +682,7 @@
          width: 700px;
          height:700px ;
         margin-top: 350px;
-        margin-left: 181px;
+        margin-left: 141px;
      }
 
 
@@ -696,21 +696,26 @@
         width: 1350px;
     }
 
+
     .btn{
        width: 1270px; 
     }
+
 
     .card{
         width: 1120px;
     }
 
+
     .card-one{
         width: 1120px;
     }
 
+
     .card-two{
         width: 1120px;
     }
+
 
     .card-three{
         width: 1120px;
@@ -962,7 +967,7 @@
 
 
        .number{
-           margin-left: -40px;
+           margin-left: -30px;
        }
 
        .source{
