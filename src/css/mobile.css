@@ -135,7 +135,7 @@
 
     .covid{
         margin-left: -170px;
-        font-size: 110px;
+        font-size: 90px;
         margin-top: 50px;
     }
 
@@ -182,7 +182,7 @@
  .track{
      margin-left: -60px;
      padding-top: 400px;
-    font-size: 80px; 
+    font-size: 60px; 
     width: 900px;
 
  }
@@ -358,12 +358,12 @@
 }
 
 .frame h1{
-    font-size: 96px;
+    font-size: 80px;
     padding-left: 50px;
 }
 
 .frame p{
-    font-size: 60px;
+    font-size: 50px;
     padding-left: 60px;
 }
 
@@ -385,9 +385,9 @@
 }
 
  .gabon img{
-     width: 115px;
+     width: 100px;
      height: 120px;
-     margin-top: 30px;
+     margin-top: 20px;
      margin-left: 20px;
  }
 
@@ -400,7 +400,7 @@
 }
 
 .gabon h4{
-  font-size: 70px;  
+  font-size: 60px;  
   line-height: 2.5;
 }
 
@@ -451,7 +451,7 @@
  }
  
  .infom h1{
-     font-size: 120px;
+     font-size: 110px;
      width: 1400px;
      margin-top: 30px;
      margin-left: -30px;
@@ -848,6 +848,16 @@
 @media screen and (max-width: 320px) {
 
     .case{
-        width: 1100px;
+        width: 1190px;
+    }
+
+
+    .info-background{
+        width: 1190px;
+    }
+
+
+    .frame-background{
+        width: 1190px;
     }
 }
