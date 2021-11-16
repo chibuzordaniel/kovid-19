@@ -847,17 +847,140 @@
 
 @media screen and (max-width: 320px) {
 
+    .btn{
+        width: 1150px;
+    }
+
+
+    .bbb{
+        margin-left: 330px;
+    }
+
+
+    .nnn{
+        margin-left: 330px;
+    }
+
+
+    .lll{
+        margin-left: 330px;
+    }
+
+
+    .ppp{
+        margin-left: 330px;
+    }
+
+
+    .card{
+        width: 999px;
+    }
+
+
+    .card-one{
+        width: 999px;
+    }
+
+
+    .card-two{
+        width: 999px;
+    }
+
+
+    .card-three{
+        width: 999px;
+    }
+
+
+     .fran{
+         width: 1100px;
+     }
+
+     .fran p {
+         margin-left: -180px;
+     }
+   
+     .gab{
+         position: absolute;
+         left: 330px;
+     }
+
+
+     .gop{
+        width: 360px; 
+     }
+
+
+     .infot h1 {
+         font-size: 80px;
+         width: 700px;
+     }
+
+
+     .infot p{
+         font-size: 55px;
+         width: 1100px;
+     }
+
+
+       .fomot h1{
+        font-size: 60px;
+       }
+
+       .mother{
+           width: 310px;
+           
+       }
+
+       .mother p {
+           font-size: 25px;
+       }
+
+       .king p{
+           font-size: 25px;
+       }
+
+
+       .moth{
+           width: 280px;
+       }
+
+       .moth p{
+           font-size: 25px;
+       }
+
+
+
+       .footer{
+           margin-left: -170px;
+       }
+
+
+       .useful{
+        margin-left: -30px ;  
+       }
+
+
+       .number{
+           margin-left: 20px;
+       }
+
+       .source{
+           margin-left: 20px;
+       }
+
+
     .case{
-        width: 1190px;
+        width: 1180px;
     }
 
 
     .info-background{
-        width: 1190px;
+        width: 1180px;
     }
 
 
     .frame-background{
-        width: 1190px;
+        width: 1180px;
     }
 }
