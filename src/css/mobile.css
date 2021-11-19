@@ -845,7 +845,7 @@
     }
 
     .info-background{
-        width: 1350px;
+        width: 1351px;
         margin-top: 1500px;
     }
 } 
@@ -853,7 +853,24 @@
 
 
 
+@media screen and (max-width: 375px){
+ 
+.case{
+    width: 1420px;
+}
 
+.info-background{
+    width: 1420px;
+}
+
+.frame-background{
+
+    width: 1420px;
+
+
+}
+
+}
 
 
 
@@ -868,7 +885,7 @@
 
 
     .bbb{
-        margin-left: 330px;
+        margin-left: 331px;
     }
 
 
@@ -878,7 +895,7 @@
 
 
     .lll{
-        margin-left: 330px;
+        margin-left: 331px;
     }
 
 

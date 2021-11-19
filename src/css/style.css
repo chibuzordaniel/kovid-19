@@ -24,7 +24,7 @@ body{
     height: 79px;
     width: 100%;
     position: fixed;
-    margin-top: -65px;
+    margin-top: -61px;
     z-index: 1;
 }
 
@@ -44,7 +44,7 @@ body{
 
 .ul{
     display: flex;
-    padding-top: 33px;
+    padding-top: 34px;
     margin-right: 200px;
 }
 
