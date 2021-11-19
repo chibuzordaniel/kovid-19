@@ -841,36 +841,18 @@
     }
 
     .bang-background{
-        width: 1351px;
+        width: 1350px;
     }
 
     .info-background{
-        width: 1310px;
+        width: 1350px;
         margin-top: 1500px;
     }
 } 
 
 
 
-/* 
-@media screen and (max-width: 375px){
- 
-.case{
-    width: 1420px;
-}
 
-.info-background{
-    width: 1420px;
-}
-
-.frame-background{
-
-    width: 1420px;
-
-
-}
-
-} */
 
 
 
