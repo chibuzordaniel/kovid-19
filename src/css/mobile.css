@@ -841,7 +841,7 @@
     }
 
     .bang-background{
-        width: 1350px;
+        width: 1351px;
     }
 
     .info-background{
@@ -852,7 +852,7 @@
 
 
 
-
+/* 
 @media screen and (max-width: 375px){
  
 .case{
@@ -870,7 +870,7 @@
 
 }
 
-}
+} */
 
 
 
@@ -994,11 +994,12 @@
 
 
        .number{
-           margin-left: -30px;
+           margin-left: -40px;
        }
 
        .source{
-           margin-left: 20px;
+    
+           margin-left: 10px;
        }
 
 
