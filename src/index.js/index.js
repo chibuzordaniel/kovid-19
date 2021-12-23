@@ -34,4 +34,12 @@ fetch(url)
 })
 
 
+// element = document.images;
+
+// console.log(element)
+
+
+
+
+
 
