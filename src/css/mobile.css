@@ -187,6 +187,14 @@
 
  }
 
+ 
+
+ #covid{
+    margin-top: 40px;
+    font-size: 90px;
+    margin-left: -85px;
+}
+
  .case{
      margin-top: 70px;
      height: 2850px;
@@ -777,6 +785,13 @@
        padding: 40px;
        font-size: 40px;
        width: 640px;
+   }
+
+
+   #covid{
+       margin-top: 40px;
+       font-size: 90px;
+       margin-left: -85px;
    }
 
 
