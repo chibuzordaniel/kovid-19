@@ -88,13 +88,20 @@ body{
     padding-top: 8px;
 }
 
+
+#covid{
+    padding-left: 20px;
+    color: blue;
+}
+
+
 .btn {
     padding: 20px  45px;
     background: #C4C4C41F;
      width: 210px;
      font-size: 15px;
      height: 57px;
-     margin-top: 10px;
+     margin-top: 11px;
      border-radius: 5px;
 
 
